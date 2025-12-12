@@ -1,0 +1,6 @@
+# Core dependencies
+openai>=1.0.0
+tqdm>=4.67.1
+
+# Optional: For async operations
+asyncio>=3.4.3
