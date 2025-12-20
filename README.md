@@ -1,7 +1,7 @@
 # CorpusQA: A 10 Million Token Benchmark for Corpus-Level Analysis and Reasoning
 
 <p align="center">
-  <a href="#"><img alt="Python" src="https://img.shields.io/badge/Python-3.8+-blue.svg"></a>
+  <a href"https://github.com/Tongyi-Zhiwen/CorpusQA/blob/main/requirements.txt"><img alt="Python" src="https://img.shields.io/badge/Python-3.8+-blue.svg"></a>
   <a href="LICENSE"><img alt="License" src="https://img.shields.io/badge/License-MIT-green.svg"></a>
   <a href="https://huggingface.co/datasets/Tongyi-Zhiwen/CorpusQA"><img alt="Dataset" src="https://img.shields.io/badge/Dataset-HuggingFace-yellow.svg"></a>
 </p>
@@ -74,7 +74,7 @@ Run the setup script to automatically configure your environment:
 
 ```bash
 # Clone the repository
-git clone https://github.com/your-username/CorpusQA.git
+git clone https://github.com/Tongyi-Zhiwen/CorpusQA.git
 cd CorpusQA
 
 # Run setup script
@@ -189,11 +189,6 @@ CorpusQA/
 └── README.md                    # This file
 ```
 
-
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## 📝 Citation
 
 If you find our work helpful, please cite our paper:
@@ -206,6 +201,3 @@ If you find our work helpful, please cite our paper:
 }
 ```
 
-## 🙏 Acknowledgments
-
-We thank all contributors and the research community for their valuable feedback and support.
