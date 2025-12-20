@@ -68,6 +68,14 @@ This final structure challenges a model to perform sophisticated, corpus-level r
 
 ## 🚀 Quick Start
 
+### Prepare Data
+The dataset is not included in this repo. Please download it from [Hugging Face](https://huggingface.co/datasets/Tongyi-Zhiwen/CorpusQA) and place the files in the `data/` directory:
+
+```bash
+# Using git-lfs to download to 'data/' folder
+git clone https://huggingface.co/datasets/Tongyi-Zhiwen/CorpusQA data/
+```
+
 ### Automated Setup (Recommended)
 
 Run the setup script to automatically configure your environment:
