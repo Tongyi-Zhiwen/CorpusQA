@@ -3,8 +3,7 @@
 <p align="center">
   <a href="#"><img alt="Python" src="https://img.shields.io/badge/Python-3.8+-blue.svg"></a>
   <a href="LICENSE"><img alt="License" src="https://img.shields.io/badge/License-MIT-green.svg"></a>
-  <a href="https://arxiv.org/"><img alt="Paper" src="https://img.shields.io/badge/Paper-arXiv-red.svg"></a>
-  <a href="https://huggingface.co/"><img alt="Dataset" src="https://img.shields.io/badge/Dataset-HuggingFace-yellow.svg"></a>
+  <a href="https://huggingface.co/datasets/Tongyi-Zhiwen/CorpusQA"><img alt="Dataset" src="https://img.shields.io/badge/Dataset-HuggingFace-yellow.svg"></a>
 </p>
 
 <p align="center">
