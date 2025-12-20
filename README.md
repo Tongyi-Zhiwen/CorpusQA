@@ -200,11 +200,10 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 If you find our work helpful, please cite our paper:
 
 ```bibtex
-@article{YourName2025CorpusQA,
-  title={CorpusQA: A 10 Million Token Benchmark for Corpus-Level Analysis and Reasoning},
-  author={First Author and Second Author and ...},
-  journal={arXiv preprint arXiv:XXXX.XXXXX},
-  year={2025}
+@article{lu2025corpusqa,
+      title={CorpusQA: A 10 Million Token Benchmark for Corpus-Level Analysis and Reasoning}, 
+      author={Zhiyuan Lu and Chenliang Li and Yingcheng Shi and Weizhou Shen and Ming Yan and Fei Huang},
+      year={2025},
 }
 ```
 
